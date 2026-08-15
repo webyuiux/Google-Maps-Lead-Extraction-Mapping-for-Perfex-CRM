@@ -148,24 +148,16 @@ Configure the module with flexible settings:
 # Screenshots
 
 ### Business Search Interface
-```
-Add screenshot here
-```
+![Business Search Interface](screenshots/screenshot1.png)
 
 ### Map Visualization
-```
-Add screenshot here
-```
+![Map Visualization](screenshots/screenshot2.png)
 
 ### Extracted Business Results
-```
-Add screenshot here
-```
+![Extracted Business Results](screenshots/screenshot3.png)
 
 ### CRM Lead Import
-```
-Add screenshot here
-```
+![CRM Lead Import](screenshots/screenshot4.png)
 
 # What's Included
 
