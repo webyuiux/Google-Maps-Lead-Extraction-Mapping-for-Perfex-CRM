@@ -1,5 +1,9 @@
 # Google Maps Lead Extraction & Mapping for Perfex CRM
 
+<p align="center">
+  <img src="screenshots/google-maps-lead.png" alt="Google Maps Lead Extractor Banner">
+</p>
+
 ![Perfex CRM](https://img.shields.io/badge/Perfex%20CRM-Compatible-green)
 ![PHP](https://img.shields.io/badge/PHP-8.x-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.x-orange)
@@ -148,16 +152,16 @@ Configure the module with flexible settings:
 # Screenshots
 
 ### Business Search Interface
-![Business Search Interface](screenshots/screenshot1.png)
+![Business Search Interface](screenshots/Capture%2001.PNG)
 
 ### Map Visualization
-![Map Visualization](screenshots/screenshot2.png)
+![Map Visualization](screenshots/Capture%2002.PNG)
 
 ### Extracted Business Results
-![Extracted Business Results](screenshots/screenshot3.png)
+![Extracted Business Results](screenshots/Capture2.PNG)
 
 ### CRM Lead Import
-![CRM Lead Import](screenshots/screenshot4.png)
+![CRM Lead Import](screenshots/Capture%203.PNG)
 
 # What's Included
 
